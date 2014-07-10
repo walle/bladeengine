@@ -7,6 +7,13 @@ I think that this type of games is a great medium to tell stories and the new mo
 
 By creating Bladecoder Adventure Engine, I want to create a platform to tell stories. Interactive stories with modern graphics, animations and music.
 
+## Building
+
+For now only local install is possible, to install
+
+    $ cd bladeengine
+    $ ./gradlew install
+
 ### The Goddess Robbery
 
 Bladecoder Adventure Engine is currently under development and it is not ready for production. The Goddess Robbery is a test game created to show the features of the Engine.
